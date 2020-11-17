@@ -31,3 +31,9 @@ tests/_support/_generated
 
 #vagrant folder
 /.vagrant
+/vagrant/
+/commands/
+/vagrant/
+/runtime/
+/vagrant/
+/web/assets/
